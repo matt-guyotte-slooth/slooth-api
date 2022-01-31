@@ -1,0 +1,117 @@
+[
+      {
+            "url": "https://jacobinmag.com/about",
+            "new_marks": [
+                  {
+                        "text": "Raison d\u2019\u00eatre",
+                        "note": "first note",
+                        "color": "#dd99ff"
+                  },
+                  {
+                        "text": "socialist perspectives on politics",
+                        "note": "second note",
+                        "color": "#ffcc00"
+                  },
+                  {
+                        "text": "to a web audience of over",
+                        "note": "third note",
+                        "color": "#ffee00"
+                  },
+                  {
+                        "text": "matters of real significance, from a thoughtful left perspective that is refreshing and all too rare. A really impressive contribution to sanity, and hope.",
+                        "note": "seventieth note",
+                        "color": "#66bbff"
+                  },
+                  {
+                        "text": "been an improbable hit, buoyed by the radical stirrings of the Occupy movement and a bitingly satirical",
+                        "note": "ninetieth note",
+                        "color": "#ff6666,#ffffff"
+                  },
+                  {
+                        "text": "Lauren Traugott-Campbell",
+                        "note": "i lost count a while ago",
+                        "color": "#55ff55"
+                  },
+                  {
+                        "text": "Sign up for our mailing l",
+                        "note": "a note on red",
+                        "color": "#ff6666,#ffffff"
+                  }
+            ]
+      },
+      {
+            "url": "https://variety.com/2022/legit/news/james-snyder-harry-potter-and-the-cursed-child-star-fired-from-broadway-show-complaint-1235161065/",
+            "new_marks": [
+                  {
+                        "text": "Variety is a part of Penske Media Corporation.",
+                        "note": "a note",
+                        "color": "#dd99ff"
+                  },
+                  {
+                        "text": "2022 Variety Media",
+                        "note": "another note",
+                        "color": "#66bbff"
+                  },
+                  {
+                        "text": "All Rights Reserved",
+                        "note": "notes",
+                        "color": "#55ff55"
+                  },
+                  {
+                        "text": "Variety and the Flying V logos are trademarks of Variety Media, LLC.",
+                        "note": "more notes",
+                        "color": "#ff6666,#ffffff"
+                  }
+            ]
+      },
+      {
+            "url": "https://english.news.cn/",
+            "new_marks": [
+                  {
+                        "text": "Copyright \u00a9 2000- 2022 news.cn",
+                        "note": "What happens to the copyright symbol? Any problems?",
+                        "color": "#ff6666,#ffffff"
+                  }
+            ]
+      },
+      {
+            "url": "https://www.lemonde.fr/",
+            "new_marks": [
+                  {
+                        "text": "Suivez Le Monde",
+                        "note": "first note on French site",
+                        "color": "#dd99ff"
+                  },
+                  {
+                        "text": "Abonnement",
+                        "note": "third note on French site",
+                        "color": "#55ff55"
+                  },
+                  {
+                        "text": "Applications Mobiles",
+                        "note": "second note in French",
+                        "color": "#66bbff"
+                  },
+                  {
+                        "text": "Newsletters du mon",
+                        "note": "une note",
+                        "color": "#ff6666,#ffffff"
+                  },
+                  {
+                        "text": "Source S\u00fbre",
+                        "note": "any problem with this accent?",
+                        "color": "#ffcc00"
+                  },
+                  {
+                        "text": "D\u00e9couvrir le jardinage",
+                        "note": "this accent?",
+                        "color": "#dd99ff"
+                  },
+                  {
+                        "text": "Alg\u00e9rie",
+                        "note": "what about this accent?",
+                        "color": "#ffee00"
+                  }
+            ]
+      }
+]
